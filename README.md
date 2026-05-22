@@ -9,18 +9,16 @@
 🎁 你的支持是我不断前进的动力！ 💖
 
 [点击展开] 赞赏支持 ~ 🧧
-
 ---
 
 ### 📊 我的 GitHub 统计
-
 **获星数**：75k+　　**累计提交**：6.7k+  
 **PR 总数**：188　　　**Issue 总数**：2
 
 ---
 
 ### 🛠️ 我的技能 / 常用语言
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vurtne&layout=compact&theme=tokyonight&hide_title=true&card_width=800&langs_count=8)
 
 **主要语言**：`JavaScript`、`Python`、`Go`、`Java`、`TypeScript`、`Shell`
-
 **其他**：React、Vue、Node.js、Docker、Kubernetes、Linux 等
