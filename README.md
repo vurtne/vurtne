@@ -12,6 +12,6 @@
 
 ### 📊 我的 GitHub 统计数据
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&theme=radical&locale=cn)
+![Vurtne's GitHub stats](https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&theme=radical&locale=cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vurtne&layout=compact&theme=radical&locale=cn)
