@@ -1,6 +1,10 @@
 # Hi there 👋
 
 &nbsp;
+### 📊 我的 GitHub 统计
 
-## 📊 我的 GitHub 统计
-![你的GitHub用户名 的 GitHub 统计数据](https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&locale=zh-cn)
+![](https://github-readme-stats.gitmirror.com/api?username=vurtne&show_icons=true&locale=zh-cn&theme=tokyonight)
+
+### 🚀 常用语言排行
+
+![](https://github-readme-stats.gitmirror.com/api/top-langs/?username=vurtne&layout=compact&locale=zh-cn&theme=tokyonight)
