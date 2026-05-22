@@ -21,4 +21,6 @@
 
 ### 🛠️ 我的技能 / 常用语言
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vurtne&layout=compact&theme=dracula&hide_title=true)
+**主要语言**：`JavaScript`、`Python`、`Go`、`Java`、`TypeScript`、`Shell`
+
+**其他**：React、Vue、Node.js、Docker、Kubernetes、Linux 等
