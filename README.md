@@ -10,4 +10,4 @@
 
 [点击展开] 赞赏支持 ~🧧
 
-<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&theme=radical" ></image-card>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&theme=transparent)
