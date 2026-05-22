@@ -1,13 +1,13 @@
-Hi there 👋
+🤖 欢迎来到我的 GitHub 仓库！ 🚀
 
----
+🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
 
-### 📊 我的 GitHub 统计
+🎉 感谢你的到访，希望你在这里能找到你需要的东西！
 
-![](https://github-readme-stats.gitmirror.com/api?username=vurtne&show_icons=true&locale=zh-cn&theme=tokyonight&v=20260522)
+▶️新人Youtuber，需要您的支持，请务必帮我点赞、关注、打开小铃铛，十分感谢！！！ ✅
 
----
+🎁 你的支持是我不断前进的动力！ 💖
 
-### 🚀 常用语言排行
+[点击展开] 赞赏支持 ~🧧
 
-![](https://github-readme-stats.gitmirror.com/api/top-langs/?username=vurtne&layout=compact&locale=zh-cn&theme=tokyonight&v=20260522)
+<image-card alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vurtne&show_icons=true&theme=radical" ></image-card>
